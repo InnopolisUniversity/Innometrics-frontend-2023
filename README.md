@@ -25,7 +25,7 @@ Gaining insights from the development process has never been easier. [Dashboard]
 
 - Charts
 <p align="center">
-<img width="700" height="400" src="https://github.com/InnopolisUniversity/Innometrics-frontend-2023/blob/master/Innometrics_charts.png">
+<img width="700" height="400" src="https://github.com/InnopolisUniversity/innometrics-dashboard/blob/master/Innometrics_charts.png">
 </p>
 
 - Top applications per person daily
@@ -48,7 +48,7 @@ Gaining insights from the development process has never been easier. [Dashboard]
 * [Here](https://drive.google.com/file/d/1ghOf4uXLN9Nl4MYenroQuLhQ3GPfZMZW/view?usp=sharing) you can read about PRIVACY NOTICE of Innometrics system.
 *  [Website](http://51.250.3.9:3000/dashboard)
 <p align="center">
-<img width="800" height="500" src="https://github.com/InnopolisUniversity/Innometrics-frontend-2023/blob/master/Innometrics_website.png" alt="Innometrics website"></a>
+<img width="800" height="500" src="https://github.com/InnopolisUniversity/innometrics-dashboard/blob/master/Innometrics_website.png" alt="Innometrics website"></a>
 <p>
 
 ## Monitoring
